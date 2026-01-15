@@ -1,3 +1,3 @@
 # Projects
 Random Stuff i guess
-`Ctrl + C`
+print("Hello World")
